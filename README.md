@@ -1,4 +1,3 @@
-Below are **simple and clean `README.md` files** for both Streamlit projects. You can directly copy them into your GitHub repositories.
 
 ---
 
@@ -49,7 +48,7 @@ guess-number-streamlit/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/guess-number-streamlit.git
+git clone https://github.com/Manoj17tech/Python-Project.git
 ````
 
 Move into the project folder:
